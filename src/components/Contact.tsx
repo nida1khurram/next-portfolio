@@ -23,7 +23,7 @@ const Contact = () => {
 
           
         </div>
-        <form action="https://formspree.io/f/xjkgoqzq" method="POST">
+        <form action="https://formspree.io/f/xzzbvela" method="POST">
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-[1rem] items-center">
             <input
               type="text"
